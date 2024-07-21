@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Hazel Alain
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning computer
-- 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me hazelo235@gmail.com
 
-<!---
-chapysgc2/chapysgc2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Hazel Alain García López
+
+- 👀 I’m a Computer Engineer with a passion for programming and technology.
+- 🌱 I have experience in iOS Mobile Development with Swift and Objective-C, as well as Web Development with HTML, CSS, JavaScript, Angular, and React.
+- 💼 I’m currently working as the CEO and iOS Mobile App Developer at Bite Soft, and previously held roles at GS, Prograpp and Banregio
+- 💞️ I’m looking to collaborate on innovative projects, especially in the fields of AI and mobile development.
+- 📫 How to reach me: hazelo235@gmail.com
